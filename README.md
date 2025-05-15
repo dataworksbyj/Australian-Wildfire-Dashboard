@@ -80,5 +80,5 @@ This dataset is based on publicly available satellite-based wildfire detection d
 ---
 
 This project is part of a broader portfolio showcasing practical applications of data science across analytics, visualization, and machine learning.  
-For more projects, visit [My GitHub Portfolio](https://github.com/J1111-dotcom).
+For more projects, visit [My GitHub Portfolio](https://github.com/dataworksbyj).
 
